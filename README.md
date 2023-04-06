@@ -5,7 +5,7 @@ Paper in PDF is publicly available [here](https://ieeexplore.ieee.org/document/1
 
 <img src="images/framework.PNG" alt="framework.png" width="600">
 
-We propose a framework for forecasting large groups of electricity load time series.
+We propose a framework for forecasting large groups of electricity load time series using global modeling approach and deep learning.
 
 ### Abstract
 With the increasing numbers of smart meter installations,
