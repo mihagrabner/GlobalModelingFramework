@@ -41,9 +41,21 @@ of Mean Absolute Error) on real-world dataset while exhibiting
 highly desirable characteristics when compared to the local models
 that are predominantly used in the literature.
 
-Coming soon....
-approx. 50 GB (created files for all prediction)
+## Setup
+I used following versions of libraries, whereas newer version would probably also work:
+- tensorflow '2.1.3'
+- pandas '1.1.5'
+- numpy '1.18.5'
+<br>
+Together there are around 50 GB of data (generated results), therefore I share only the original dataset (and clustering results) and all other files can be generated using Jupyter Notebooks.<br>
 
-tensorflow '2.1.3'
-pandas '1.1.5'
-numpy '1.18.5'
+Folder structure:
+- notebooks -> Jupyter Notebooks (start with 01 etc.)
+- input_data -> store the input data in this folder (link to data is available in "input_data/readme.txt")
+- generated_data -> clustering results are stored in "cluster_data.csv", whereas generated features for training will be in "generated_data/dataset_separated_by_ts/"
+- modules -> Python functions that are used
+- models -> models and related data will be saved there, after creating it in Jupyter Notebooks.
+
+<br>
+If you have any questions or want to continue with my work you can contact me on a LinkedIn (https://www.linkedin.com/in/miha-grabner-a99708141/) <br>
+If you are interested in this topic, you can join my LinkedIn group AI in Smart Grids (https://www.linkedin.com/groups/13621702/) or visit my website: https://www.mihagrabner.com/ .
