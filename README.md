@@ -41,5 +41,9 @@ of Mean Absolute Error) on real-world dataset while exhibiting
 highly desirable characteristics when compared to the local models
 that are predominantly used in the literature.
 
+Coming soon....
+approx. 50 GB (created files for all prediction)
 
-Code will be available on April 7.
+tensorflow '2.1.3'
+pandas '1.1.5'
+numpy '1.18.5'
