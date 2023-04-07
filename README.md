@@ -57,5 +57,5 @@ Folder structure:
 - models -> models and related data will be saved there, after creating it in Jupyter Notebooks.
 
 <br>
-If you have any questions or want to continue with my work you can contact me on a LinkedIn (https://www.linkedin.com/in/miha-grabner-a99708141/) <br>
+If you have any questions or want to continue with my work you can contact me on a LinkedIn (https://www.linkedin.com/in/miha-grabner-a99708141/). <br>
 If you are interested in this topic, you can join my LinkedIn group AI in Smart Grids (https://www.linkedin.com/groups/13621702/) or visit my website: https://www.mihagrabner.com/ .
