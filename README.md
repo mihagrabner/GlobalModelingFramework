@@ -59,3 +59,18 @@ Folder structure:
 <br>
 If you have any questions or want to continue with my work you can contact me on a LinkedIn (https://www.linkedin.com/in/miha-grabner-a99708141/). <br>
 If you are interested in this topic, you can join my LinkedIn group AI in Smart Grids (https://www.linkedin.com/groups/13621702/) or visit my website: https://www.mihagrabner.com/ .
+
+## Citation
+If you find this work useful in your research work, please consider citing:
+
+    @ARTICLE{10092804,
+      author    = {Grabner, Miha and Wang, Yi and Wen, Qingsong and Blažič, Boštjan and Štruc, Vitomir},
+      title     = {A Global Modeling Framework for Load Forecasting in Distribution Networks},
+      journal   = {IEEE Transactions on Smart Grid},
+      year      = {2023},
+      volume    = {},
+      number    = {},
+      pages={1-1},
+      url       = {https://ieeexplore.ieee.org/document/10092804},
+      doi={10.1109/TSG.2023.3264525}
+    }
