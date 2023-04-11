@@ -42,7 +42,7 @@ highly desirable characteristics when compared to the local models
 that are predominantly used in the literature.
 
 ## Setup
-I used following versions of libraries, whereas newer version would probably also work:
+I used following versions of libraries, whereas newer versions would probably also work:
 - tensorflow '2.1.3'
 - pandas '1.1.5'
 - numpy '1.18.5'
